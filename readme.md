@@ -23,7 +23,13 @@ You need a Linux-based PC. (the principle can be adapted to other systems too). 
 
 Please note that steps above are quite hacky and might not work with icons added later, as they may have a different SVG structure.
 
-A version created at 2021.11.29 can be [readily downloaded](https://github.com/nagyrobi/knx-uf-iconset-to-ttf/raw/master/font/knx-uf-iconset-font.zip), includes a cheatsheed with character codes.
+A version created at 2021.11.29 can be [readily downloaded](https://github.com/nagyrobi/knx-uf-iconset-to-ttf/raw/master/font/knx-uf-iconset-font.zip), includes a cheatsheet with the character codes.
+
+## Demo
+Working with [openHASP](https://haswitchplate.github.io/openHASP-docs/):
+![image](https://user-images.githubusercontent.com/1550668/143791402-27df1f4e-55bb-4aa3-a777-2c198047a0cc.png)
+
+
 
 ### License
 CC BY-SA 3.0
