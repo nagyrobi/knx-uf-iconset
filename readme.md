@@ -21,6 +21,8 @@ You need a Linux-based PC. (the principle can be adapted to other systems too). 
 6. Done!
 7. Optionally you can use a tool like [FontForge](https://fontforge.org) to edit the various properties of the generated TTF file.
 
+Please note that steps above are quite hacky and might not work with icons added later, as they may have a different SVG structure.
+
 A version created at 2021.11.29 can be [readily downloaded](https://github.com/nagyrobi/knx-uf-iconset-to-ttf/raw/master/font/knx-uf-iconset-font.zip), includes a cheatsheed with character codes.
 
 ### License
