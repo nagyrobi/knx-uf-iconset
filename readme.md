@@ -20,6 +20,8 @@ You need a Linux-based PC. (the principle can be adapted to other systems too). 
 5. Done!
 6. Optionally you can use a tool like [FontForge](https://fontforge.org) to edit the various properties of the generated TTF file.
 
+A version created at 2021.11.28 can be [readily downloaded](https://github.com/nagyrobi/knx-uf-iconset-to-ttf/raw/master/font/knx-uf-iconset-font.zip), includes a cheatsheed with character codes.
+
 ### License
 CC BY-SA 3.0
 https://creativecommons.org/licenses/by-sa/3.0/deed.en
