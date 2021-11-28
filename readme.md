@@ -27,6 +27,7 @@ A version created at 2021.11.29 can be [readily downloaded](https://github.com/n
 
 ## Demo
 Working with [openHASP](https://haswitchplate.github.io/openHASP-docs/):
+
 ![image](https://user-images.githubusercontent.com/1550668/143791402-27df1f4e-55bb-4aa3-a777-2c198047a0cc.png)
 
 
